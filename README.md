@@ -87,7 +87,7 @@ End
 Main Flow (Simplified View)</b></li></ul>
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
+
 <ul><li>The feasibility of the Farm Wallet–enabled Smart Crop Advisory System can be analyzed across technical, economic, and social dimensions. From a technical standpoint, the idea is highly feasible because it uses proven technologies such as mobile-based advisory platforms, digital wallets, and cloud computing, all of which can be integrated using open-source frameworks and affordable APIs. On the economic side, the solution is viable as the costs of development and deployment are relatively low compared to the potential benefits it provides; farmers save on inputs, increase productivity, and reduce reliance on moneylenders, while partnerships with agribusinesses, government programs, and financial institutions can generate sustainable revenue streams. From a social feasibility perspective, the solution addresses a critical need of small and marginal farmers by making advisories practical, understandable, and directly tied to financial benefits, which increases trust and adoption.</li>
   
 <li>While the Farm Wallet solution has strong potential, it also faces several challenges and risks that need to be addressed for successful implementation. One key challenge is digital literacy, as many small and marginal farmers may struggle to understand mobile-based systems or digital wallets, especially those who are semi-literate or elderly. Network connectivity in remote rural areas can also limit the effectiveness of real-time advisories. Another risk lies in adoption hesitancy, since farmers are often cautious about new technologies and may not immediately trust a digital system unless they see tangible benefits</li>

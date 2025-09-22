@@ -37,7 +37,7 @@ Supporting data highlights the urgency and potential impact of the Farm Wallet s
 Government of Punjab
 
 ## Theme
-Agriculture, FoodTech & Rural Development
+"FARM WALLET" - input credits via advisory
 
 ## Proposed Solution
 <ul><li>The proposed solution is a Farm Wallet–enabled Smart Crop Advisory System that provides small and marginal farmers with actionable agricultural advice directly linked to financial savings and income growth. Through this system, farmers receive personalized recommendations on crop selection, irrigation, fertiliser use, pest management, and market prices via SMS, IVR, or WhatsApp in their local language. Each advisory includes a monetary value—for example, cost saved or potential profit gained—credited to the farmer’s digital Farm Wallet. Farmers can track their wallet balance and redeem points for input discounts, mobile recharge, or microcredit, creating a tangible incentive to follow advisory recommendations. </li>

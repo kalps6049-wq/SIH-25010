@@ -71,14 +71,9 @@ The Farm Wallet–enabled Smart Crop Advisory System offers a wide range of bene
 
 ## Research and References
 
-1. Fintech for sustainable agriculture: insights from Tamil Nadu — examines how fintech tools help smallholder farmers in Tamil Nadu with credit, market access, and sustainable practices. 
-Link: Frontiers — Fintech & Sustainable Agriculture (Tamil Nadu) 
+https://www.bivatec.com/apps/farmers-wallet
 
+https://www.indusappstore.com/apps/productivity/farmer's-wallet/com.bivatec.farmerswallet/?page=details&id=com.bivatec.farmerswallet
 
-2. Impact of e-wallets usage in agriculture: A Survey — covers how agricultural stakeholders use e-wallets, their benefits and challenges. 
-Link: ABR International Journal — Impact of E-wallets Usage in Agriculture 
-
-
-3. How have smallholder farmers used digital extension tools — explores phone calls, WhatsApp groups, apps used for agricultural advice; good for understanding advisory uptake. 
-Link: PMC — Digital Extension Tools Use by Smallholder Farmers 
+The above above links are provided for research and reference purpose.
 

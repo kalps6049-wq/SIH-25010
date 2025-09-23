@@ -75,5 +75,5 @@ https://www.bivatec.com/apps/farmers-wallet
 
 https://www.indusappstore.com/apps/productivity/farmer's-wallet/com.bivatec.farmerswallet/?page=details&id=com.bivatec.farmerswallet
 
-The above above links are provided for research and reference purpose.
+The above links are provided for research and reference purpose.
 
